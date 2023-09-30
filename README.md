@@ -1,3 +1,3 @@
-# index.htgml
+# index.html
 
 hello
